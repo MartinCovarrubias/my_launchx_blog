@@ -9,8 +9,8 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 Mis expectativas para este proyecto son:
 
-*Aprender git y github
-*Aplicar mis conocimientos de front-end
-*Diseñar aplicaciones backend
+- Aprender git y github
+- Aplicar mis conocimientos de front-end
+- Diseñar aplicaciones backend
 
 🚀
